@@ -1,0 +1,8 @@
+<resources>
+    <color name="nova_night">#0E1015</color>
+    <color name="nova_deep">#171A21</color>
+    <color name="nova_cyan">#00B167</color>
+    <color name="nova_violet">#7552CC</color>
+    <color name="nova_mint">#5AE8A2</color>
+    <color name="nova_white">#F4F8FF</color>
+</resources>

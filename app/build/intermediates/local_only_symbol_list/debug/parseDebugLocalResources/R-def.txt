@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color nova_cyan
+color nova_deep
+color nova_mint
+color nova_night
+color nova_violet
+color nova_white
+drawable ic_launcher_foreground
+drawable nova_brand_mark
+drawable nova_launcher_foreground
+drawable nova_launcher_monochrome
+drawable nova_nav_account
+drawable nova_nav_admin
+drawable nova_nav_home
+drawable nova_nav_proxy
+drawable nova_nav_settings
+drawable nova_nav_vpn
+drawable nova_notification
+drawable nova_profile_fastest
+drawable nova_profile_gaming
+drawable nova_profile_privacy
+drawable nova_profile_streaming
+drawable nova_protocol_https
+drawable nova_protocol_ikev2
+drawable nova_protocol_openvpn
+drawable nova_protocol_socks
+drawable nova_protocol_wireguard
+mipmap ic_launcher
+mipmap ic_launcher_round
+style Theme.NovaVPN
+style Theme.NovaVPN.Starting
+xml backup_rules

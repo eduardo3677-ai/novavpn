@@ -1,0 +1,158 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: arm64-v8a",
+    "file_": "/home/eduardo/echosmart-android/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/eduardo/echosmart-android/app/build/.cxx/Debug/2e1c1t52/arm64-v8a/android_gradle_build.json due to:",
+    "file_": "/home/eduardo/echosmart-android/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "/home/eduardo/echosmart-android/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/home/eduardo/echosmart-android/app/build/.cxx/Debug/2e1c1t52/arm64-v8a\u0027",
+    "file_": "/home/eduardo/echosmart-android/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/eduardo/echosmart-android/app/build/.cxx/Debug/2e1c1t52/arm64-v8a\u0027",
+    "file_": "/home/eduardo/echosmart-android/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild /opt/android-sdk/ndk/29.0.14206865/ndk-build \\\n  NDK_PROJECT_PATH\u003dnull \\\n  APP_BUILD_SCRIPT\u003d/home/eduardo/echosmart-android/app/src/main/jni/Android.mk \\\n  NDK_APPLICATION_MK\u003d/home/eduardo/echosmart-android/app/src/main/jni/Application.mk \\\n  APP_ABI\u003darm64-v8a \\\n  NDK_ALL_ABIS\u003darm64-v8a \\\n  NDK_DEBUG\u003d1 \\\n  APP_PLATFORM\u003dandroid-26 \\\n  NDK_OUT\u003d/home/eduardo/echosmart-android/app/build/intermediates/cxx/Debug/2e1c1t52/obj \\\n  NDK_LIBS_OUT\u003d/home/eduardo/echosmart-android/app/build/intermediates/cxx/Debug/2e1c1t52/lib \\\n  NDK_APPLICATION_MK:\u003dsrc/main/jni/Application.mk \\\n  APP_SHORT_COMMANDS\u003dfalse \\\n  LOCAL_SHORT_COMMANDS\u003dfalse \\\n  -B \\\n  -n\n",
+    "file_": "/home/eduardo/echosmart-android/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/opt/android-sdk/ndk/29.0.14206865/ndk-build \\\n  NDK_PROJECT_PATH\u003dnull \\\n  APP_BUILD_SCRIPT\u003d/home/eduardo/echosmart-android/app/src/main/jni/Android.mk \\\n  NDK_APPLICATION_MK\u003d/home/eduardo/echosmart-android/app/src/main/jni/Application.mk \\\n  APP_ABI\u003darm64-v8a \\\n  NDK_ALL_ABIS\u003darm64-v8a \\\n  NDK_DEBUG\u003d1 \\\n  APP_PLATFORM\u003dandroid-26 \\\n  NDK_OUT\u003d/home/eduardo/echosmart-android/app/build/intermediates/cxx/Debug/2e1c1t52/obj \\\n  NDK_LIBS_OUT\u003d/home/eduardo/echosmart-android/app/build/intermediates/cxx/Debug/2e1c1t52/lib \\\n  NDK_APPLICATION_MK:\u003dsrc/main/jni/Application.mk \\\n  APP_SHORT_COMMANDS\u003dfalse \\\n  LOCAL_SHORT_COMMANDS\u003dfalse \\\n  -B \\\n  -n\n",
+    "file_": "/home/eduardo/echosmart-android/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/home/eduardo/echosmart-android/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "/home/eduardo/echosmart-android/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "found application make file /home/eduardo/echosmart-android/app/src/main/jni/Application.mk",
+    "file_": "/home/eduardo/echosmart-android/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "/home/eduardo/echosmart-android/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/eduardo/echosmart-android/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 128" role="img" aria-labelledby="title">
+  <title id="title">EchoSmart logo</title>
+  <rect width="520" height="128" rx="28" fill="#060A12"/>
+  <g transform="translate(16 10) scale(.94)">
+    <path fill="#54E8FF" d="M54 8C31.4 8 13 26.4 13 49c0 29.5 41 51 41 51s41-21.5 41-51C95 26.4 76.6 8 54 8Z"/>
+    <circle cx="54" cy="49" r="25" fill="#07111F"/><circle cx="54" cy="49" r="14" fill="#8B5CF6"/><circle cx="54" cy="49" r="9" fill="#F4F8FF" fill-opacity=".75"/>
+  </g>
+  <text x="132" y="63" fill="#F4F8FF" font-family="Inter,Arial,sans-serif" font-size="44" font-weight="700">EchoSmart</text>
+  <text x="134" y="91" fill="#8FA3BC" font-family="Inter,Arial,sans-serif" font-size="16" letter-spacing="1">PRIVATE GLOBAL NETWORK</text>
+</svg>

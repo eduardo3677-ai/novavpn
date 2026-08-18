@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="nova_cyan">#00B167</color>
+    <color name="nova_deep">#171A21</color>
+    <color name="nova_mint">#5AE8A2</color>
+    <color name="nova_night">#0E1015</color>
+    <color name="nova_violet">#7552CC</color>
+    <color name="nova_white">#F4F8FF</color>
+    <style name="Theme.NovaVPN" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#060A12</item>
+        <item name="android:navigationBarColor">#060A12</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="Theme.NovaVPN.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#060A12</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/nova_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.NovaVPN</item>
+    </style>
+</resources>

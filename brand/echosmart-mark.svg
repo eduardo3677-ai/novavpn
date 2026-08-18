@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-labelledby="title">
+  <title id="title">EchoSmart brand mark</title>
+  <path fill="#54E8FF" d="M54 8C31.4 8 13 26.4 13 49c0 29.5 41 51 41 51s41-21.5 41-51C95 26.4 76.6 8 54 8Z"/>
+  <circle cx="54" cy="49" r="25" fill="#07111F"/>
+  <circle cx="54" cy="49" r="14" fill="#8B5CF6"/>
+  <circle cx="54" cy="49" r="9" fill="#F4F8FF" fill-opacity=".75"/>
+</svg>
